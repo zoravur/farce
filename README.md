@@ -1,6 +1,3 @@
-
-### `README.md`
-
 # Flexible And Responsive Chrome Extension
 
 This Chrome extension disables the `Ctrl+Shift+C` shortcut (for opening Chrome DevTools) and provides a button that allows you to navigate to the Google Cache version of the current page.
