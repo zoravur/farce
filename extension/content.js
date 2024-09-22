@@ -17,3 +17,7 @@ document.addEventListener('keydown', function (event) {
     }
   }
 });
+
+window.navigateToCache = function() {
+  window.location.href = "https://webcache.googleusercontent.com/search?q=cache:"+window.location.href;
+}
