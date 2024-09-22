@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Remap Ctrl+Shift+C",
+  "version": "1.0",
+  "description": "Remap Ctrl+Shift+C to copy in Google Chrome",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
+
