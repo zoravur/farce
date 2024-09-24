@@ -6,3 +6,6 @@ This Chrome extension disables the `Ctrl+Shift+C` shortcut (for opening Chrome D
 
 - **Disable Ctrl+Shift+C**: Prevents `Ctrl+Shift+C` from opening Chrome DevTools (supports Dvorak layout).
 - **Google Cache Button**: Adds a button in the extension popup to navigate to the cached version of the current page using Google Cache.
+
+## It's over
+- Google has disabled the cache operator as of Sep 24, 2 days after this repo was created. Insane timing.
